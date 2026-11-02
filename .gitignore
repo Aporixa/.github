@@ -1,0 +1,5 @@
+# Private planning notes — never commit
+initial.md
+notes/
+*.private.md
+.DS_Store
