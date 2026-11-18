@@ -62,8 +62,9 @@ released. Coming first:
 - **The Warden**: a prompt-injection CTF with layered defenses on live models
 - **Warden Bench**: generations of automated attackers against one guarded-secret
   lab, with every probe logged
-- **cc-harness v2**: compares what you asked an agent to do with what it
+- **mitm-research-harness**: compares what you asked an agent to do with what it
   reasoned, did, and reported back
+- **elenxa**: Autonomous penetration-testing agent (AGPL-3.0). Authorized targets only.
 
 ## Engage
 
